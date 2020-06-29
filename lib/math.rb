@@ -2,7 +2,7 @@
 def addition(num1, num2)
  return num1+ num2
 end
-addition
+addition(2,3)
 
 
 
