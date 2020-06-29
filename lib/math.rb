@@ -22,7 +22,7 @@ end
 
 def square_root(num=81)
   sum_square=Math.squrt(num)
-  return sum_square
+  sum_square
 end
 
 square_root(9)
