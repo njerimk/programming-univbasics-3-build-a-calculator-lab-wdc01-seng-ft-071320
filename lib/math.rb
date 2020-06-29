@@ -1,6 +1,7 @@
 
 def addition(num1, num2)
  addition_sum = #{num2} + #{num1}
+ return addition_sum
 end
  addition '2','4'
 
