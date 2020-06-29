@@ -1,7 +1,6 @@
 
 def addition(num1, num2)
- sum_addition= num1+ num2
- sum_addition
+ return num1+ num2
 end
 addition
 
