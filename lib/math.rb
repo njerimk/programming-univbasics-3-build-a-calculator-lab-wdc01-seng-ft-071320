@@ -8,7 +8,7 @@ end
 
 def division(num1, num2)
   div_sum = num1/num2
-  return div_sum
+  div_sum
 end
 
 division(4,2) 
