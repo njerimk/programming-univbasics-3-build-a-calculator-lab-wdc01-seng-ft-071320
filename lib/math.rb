@@ -1,6 +1,6 @@
 
 def addition(num1, num2)
- num2 +num1
+ addition_sum =num2 + num1
 end
  addition(2,4)
 
