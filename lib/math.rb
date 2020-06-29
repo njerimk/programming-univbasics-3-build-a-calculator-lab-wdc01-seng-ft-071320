@@ -21,7 +21,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num=81)
-  return Math.squrt{num}
+  Math.squrt(num)
 end
 
 square_root(9)
