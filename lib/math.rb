@@ -20,10 +20,10 @@ def modulo(num1, num2)
 
 end
 
-def square_root(num=81)
+def square_root(num)
   sum_square=Math.squrt(num)
   sum_square
 end
 
-square_root(9)
+square_root(81)
 
