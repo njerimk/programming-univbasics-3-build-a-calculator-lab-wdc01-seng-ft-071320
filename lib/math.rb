@@ -1,8 +1,10 @@
 
 def addition(num1, num2)
- return num1+num2
+ sum_addition= #{num1}+#{num2}
+ return sum_addition
 end
-addition 4,3
+
+addition(2,3)
 
 
 
