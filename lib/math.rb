@@ -1,9 +1,9 @@
 
 def addition(num1, num2)
-  
+  return num2 +num1
 end
+ addition(2,4)
 
-addition (4,2)
 
 
 def subtraction(num1, num2)
