@@ -1,8 +1,11 @@
+
 def addition(num1, num2)
   
 end
 
 addition (4,2)
+
+
 def subtraction(num1, num2)
   return num1-num2
 end
@@ -27,5 +30,4 @@ def square_root(num)
   
 end
 
-square_root(81)
 
