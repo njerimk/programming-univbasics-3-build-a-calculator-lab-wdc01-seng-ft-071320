@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  return num1 + num2
+  return #{num} + #{num2}
 end
 
 def subtraction(num1, num2)
@@ -11,7 +11,6 @@ def division(num1, num2)
   div_sum
 end
 
-division 4,2
 
 def multiplication(num1, num2)
   return num1 * num2
