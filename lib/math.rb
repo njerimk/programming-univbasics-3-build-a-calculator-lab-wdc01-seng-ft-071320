@@ -1,9 +1,9 @@
 
 def addition(num1, num2)
- sum_addition= #{num1}+ #{num2}
+ sum_addition= num1+ num2
  sum_addition
 end
-(addition("2","3"))
+(addition(2,3))
 
 
 
